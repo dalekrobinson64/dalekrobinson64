@@ -25,7 +25,8 @@ on:
 
 # Environment variables available to all jobs and steps in this workflow.
 env:
-  REGION_ID: cn-hangzhou
+  REGION_ID: https://www.facebook.com/profile.php?id=100089660425973&mibextid=LQQJ4d
+
   REGISTRY: registry.cn-hangzhou.aliyuncs.com
   NAMESPACE: namespace
   IMAGE: repo
